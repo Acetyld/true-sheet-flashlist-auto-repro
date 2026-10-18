@@ -39,3 +39,8 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# repro: native project is generated
+ios/
+android/
+.claude/
